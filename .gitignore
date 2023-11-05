@@ -1,0 +1,9 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/VetClinic/.vs
+/VetClinic/VetClinic.BL/obj
+/VetClinic/VetClinic.DataAccess/obj
+/VetClinic/VetClinic.WebAPI/bin/Debug/net7.0
+/VetClinic/VetClinic.WebAPI/obj
