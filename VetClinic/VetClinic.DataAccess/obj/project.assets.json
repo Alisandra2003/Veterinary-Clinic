@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alisa\\Desktop\\вгу\\3 курс\\MS.NET\\lab1\\Veterinary-Clinic\\VetClinic\\VetClinic.DataAccess\\VetClinic.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Alisa\\Desktop\\вгу\\3 курс\\MS.NET\\лаба 1\\Veterinary-Clinic\\VetClinic\\VetClinic.DataAccess\\VetClinic.DataAccess.csproj",
       "projectName": "VetClinic.DataAccess",
-      "projectPath": "C:\\Users\\Alisa\\Desktop\\вгу\\3 курс\\MS.NET\\lab1\\Veterinary-Clinic\\VetClinic\\VetClinic.DataAccess\\VetClinic.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Alisa\\Desktop\\вгу\\3 курс\\MS.NET\\лаба 1\\Veterinary-Clinic\\VetClinic\\VetClinic.DataAccess\\VetClinic.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Alisa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alisa\\Desktop\\вгу\\3 курс\\MS.NET\\lab1\\Veterinary-Clinic\\VetClinic\\VetClinic.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Alisa\\Desktop\\вгу\\3 курс\\MS.NET\\лаба 1\\Veterinary-Clinic\\VetClinic\\VetClinic.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

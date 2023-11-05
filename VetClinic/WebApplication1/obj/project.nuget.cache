@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n1vk3MUe6tFNfGkuV11uLiS9wCpg8U1Y8arlnVlyIhha94WMDiLUnCZjVpwe68YP/SdfRbYjQgmePiU9fFjFeQ==",
+  "dgSpecHash": "7ZB5jzZE9tPr8MlSoyX4oNjr9cZZbUmP6ZdZFSccGc95UDAdPQZUc6Gu/aETz4NeNu7w94Lv37yv6IhRYpTrPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alisa\\Desktop\\вгу\\3 курс\\MS.NET\\lab1\\Veterinary-Clinic\\VetClinic\\WebApplication1\\VetClinic.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Alisa\\Desktop\\вгу\\3 курс\\MS.NET\\лаба 1\\Veterinary-Clinic\\VetClinic\\WebApplication1\\VetClinic.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alisa\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
     "C:\\Users\\Alisa\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
