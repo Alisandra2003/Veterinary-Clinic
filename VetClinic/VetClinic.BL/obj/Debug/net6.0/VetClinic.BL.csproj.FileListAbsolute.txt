@@ -1,0 +1,15 @@
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.BL\bin\Debug\net6.0\VetClinic.BL.deps.json
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.BL\bin\Debug\net6.0\VetClinic.BL.dll
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.BL\bin\Debug\net6.0\VetClinic.BL.pdb
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.BL\bin\Debug\net6.0\VetClinic.DataAccess.dll
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.BL\bin\Debug\net6.0\VetClinic.DataAccess.pdb
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.BL\obj\Debug\net6.0\VetClinic.BL.csproj.AssemblyReference.cache
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.BL\obj\Debug\net6.0\VetClinic.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.BL\obj\Debug\net6.0\VetClinic.BL.AssemblyInfoInputs.cache
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.BL\obj\Debug\net6.0\VetClinic.BL.AssemblyInfo.cs
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.BL\obj\Debug\net6.0\VetClinic.BL.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.BL\obj\Debug\net6.0\VetClinic.BL.csproj.CopyComplete
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.BL\obj\Debug\net6.0\VetClinic.BL.dll
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.BL\obj\Debug\net6.0\refint\VetClinic.BL.dll
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.BL\obj\Debug\net6.0\VetClinic.BL.pdb
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.BL\obj\Debug\net6.0\ref\VetClinic.BL.dll

@@ -1,0 +1,11 @@
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.DataAccess\bin\Debug\net6.0\VetClinic.DataAccess.deps.json
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.DataAccess\bin\Debug\net6.0\VetClinic.DataAccess.dll
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.DataAccess\bin\Debug\net6.0\VetClinic.DataAccess.pdb
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.DataAccess\obj\Debug\net6.0\VetClinic.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.DataAccess\obj\Debug\net6.0\VetClinic.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.DataAccess\obj\Debug\net6.0\VetClinic.DataAccess.AssemblyInfo.cs
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.DataAccess\obj\Debug\net6.0\VetClinic.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.DataAccess\obj\Debug\net6.0\VetClinic.DataAccess.dll
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.DataAccess\obj\Debug\net6.0\refint\VetClinic.DataAccess.dll
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.DataAccess\obj\Debug\net6.0\VetClinic.DataAccess.pdb
+C:\Users\Alisa\Desktop\вгу\3 курс\MS.NET\lab1\Veterinary-Clinic\VetClinic\VetClinic.DataAccess\obj\Debug\net6.0\ref\VetClinic.DataAccess.dll
