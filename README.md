@@ -1,4 +1,4 @@
-![2023-11-05_18-39-06](https://github.com/Alisandra2003/Veterinary-Clinic/assets/128182010/2b00eb02-12a2-4a41-aa15-cf339ab96fc1)
+![2023-11-19_16-56-09](https://github.com/Alisandra2003/Veterinary-Clinic/assets/128182010/7c4a6330-30d0-4c3c-b37e-167398384aef)
 
 # Ветеринарная клиника
 Пользователи делятся на 2 типа: клиент и администратор.
