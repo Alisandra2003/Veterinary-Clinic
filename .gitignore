@@ -4,6 +4,11 @@
 
 /VetClinic/.vs
 /VetClinic/VetClinic.BL/obj
+/VetClinic/VetClinic.BL/bin
 /VetClinic/VetClinic.DataAccess/obj
+/VetClinic/VetClinic.DataAccess/bin
 /VetClinic/VetClinic.WebAPI/bin/Debug/net6.0
 /VetClinic/VetClinic.WebAPI/obj
+/VetClinic/VetClinic.WebAPI/logs
+/VetClinic/VetClinic.UnitTest/obj
+/VetClinic/VetClinic.UnitTest/bin

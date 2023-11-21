@@ -2,6 +2,6 @@
 {
     public class VetClinicSettings
     {
-        //здесь будут приложения, например, строка подключения к бд
+        public string VetClinicDbContextConnectionString { get; set; }
     }
 }
