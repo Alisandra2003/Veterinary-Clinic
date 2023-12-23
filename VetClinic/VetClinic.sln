@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VetClinic.WebAPI", "VetClin
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{B63639FA-5018-4963-91B7-2E7F63725CE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetClinic.UnitTest", "VetClinic.UnitTest\VetClinic.UnitTest.csproj", "{2C013DE7-E0AA-44B3-8046-A9BEB7336A2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VetClinic.UnitTest", "VetClinic.UnitTest\VetClinic.UnitTest.csproj", "{2C013DE7-E0AA-44B3-8046-A9BEB7336A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetClinic.BL.UnitTest", "VetClinic.BL.UnitTest\VetClinic.BL.UnitTest.csproj", "{CC9AB706-014C-40C6-AC68-395B5D195853}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,12 +37,17 @@ Global
 		{2C013DE7-E0AA-44B3-8046-A9BEB7336A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C013DE7-E0AA-44B3-8046-A9BEB7336A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C013DE7-E0AA-44B3-8046-A9BEB7336A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9AB706-014C-40C6-AC68-395B5D195853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9AB706-014C-40C6-AC68-395B5D195853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9AB706-014C-40C6-AC68-395B5D195853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9AB706-014C-40C6-AC68-395B5D195853}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2C013DE7-E0AA-44B3-8046-A9BEB7336A2D} = {B63639FA-5018-4963-91B7-2E7F63725CE1}
+		{CC9AB706-014C-40C6-AC68-395B5D195853} = {B63639FA-5018-4963-91B7-2E7F63725CE1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B281B194-BD22-49A7-ADA2-A5F3C946E24C}

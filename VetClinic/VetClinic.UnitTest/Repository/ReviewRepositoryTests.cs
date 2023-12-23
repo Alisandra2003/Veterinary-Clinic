@@ -10,6 +10,8 @@ using VetClinic.DataAccess;
 
 namespace VetClinic.UnitTest.Repository
 {
+    [TestFixture]
+    [Category("Integration")]
     public class ReviewRepositoryTests : RepositoryTestsBaseClass
     {
         [Test]

@@ -7,8 +7,12 @@
 /VetClinic/VetClinic.BL/bin
 /VetClinic/VetClinic.DataAccess/obj
 /VetClinic/VetClinic.DataAccess/bin
-/VetClinic/VetClinic.WebAPI/bin/Debug/net6.0
+/VetClinic/VetClinic.WebAPI/bin
 /VetClinic/VetClinic.WebAPI/obj
 /VetClinic/VetClinic.WebAPI/logs
+/VetClinic/VetClinic.WebAPI/.vs
 /VetClinic/VetClinic.UnitTest/obj
 /VetClinic/VetClinic.UnitTest/bin
+/VetClinic/obj
+/VetClinic/VetClinic.BL.UnitTest/bin
+/VetClinic/VetClinic.BL.UnitTest/obj
